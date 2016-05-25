@@ -10,6 +10,10 @@
     width: 100%;
   }
 
+  table tbody tr:hover {
+    background-color: transparent;
+  }
+
   tr {
     border-collapse: collapse;
   }
@@ -58,7 +62,7 @@
   .wday-6 {}
 
   .today {
-    background: #FFFFC0
+    background: #ffff99;
   }
 
   .past {}
@@ -67,10 +71,10 @@
   .start-date {}
 
   .prev-month {
-    background: #DDD;
+    background: #909090;
   }
   .next-month {
-    background: #DDD;
+    background: #909090;
   }
   .current-month {}
 
