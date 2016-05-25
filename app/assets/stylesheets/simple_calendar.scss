@@ -34,19 +34,8 @@
     vertical-align: top;
     width: 14%;
 
-    border: 1px solid #ddd;
-    border-top-color: rgb(221, 221, 221);
-    border-top-style: solid;
-    border-top-width: 1px;
-    border-right-color: rgb(221, 221, 221);
-    border-right-style: solid;
-    border-right-width: 1px;
-    border-bottom-color: rgb(221, 221, 221);
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-left-color: rgb(221, 221, 221);
-    border-left-style: solid;
-    border-left-width: 1px;
+    border: solid 2px #A0A0A0;
+
   }
 
   .day {
@@ -71,10 +60,10 @@
   .start-date {}
 
   .prev-month {
-    background: #909090;
+    background: #B8B8B8;
   }
   .next-month {
-    background: #909090;
+    background: #B8B8B8;
   }
   .current-month {}
 
